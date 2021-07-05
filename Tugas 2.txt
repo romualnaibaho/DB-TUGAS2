@@ -1,0 +1,29 @@
+1. Sebutkan pengertian dari tuple, attribute dan relation!
+   Jawab: 
+   a. Attribute adalah kolom dalam sebuah tabel.
+   b. Tuple adalah baris dalam sebuah tabel.
+   c. Relation umumnya menunjukkan sebuah tabel.
+
+2. Perhatikan tabel di bawah ini :
+   a. Sebutkan attribute dari tabel Mahasiswa!
+      Jawab:
+      NPM, Nama, Jenis Kelamin, Jurusan, dan IPK
+
+   b. b.Sebutkan 3 buah tuple yang terdapat pada tabel Mahasiswa!
+      Jawab:
+      - '57119789', 'Andi Gunawan', 'Laki-Laki', 'Akuntansi', 3.29
+      - '51319653', 'Leshi Puspitasari', 'Wanita', 'Hukum', 3.60
+      - '56719451', 'Maximilianus Anthoni', 'Laki-Laki', 'Ilmu Komputer', 3.17
+
+   c. Sebutkan 5 buah field yang terdapat pada tabel Mahasiswa
+      Jawab:
+      - Andi Gunawan
+      - Wanita
+      - Laki-Laki
+      - Hukum
+      - 3.60, dst
+
+3. Apakah pengertian dari Primary Key dan Candidate Key !
+   Jawab:
+   Primary Key adalah kolom yang akan menjadi identitas dari setiap baris tabel, sedangkan 
+   Candidate Key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi tiap baris dari suatu tabel. Selain tidak boleh ada data yang sama, kolom yang dikategorikan sebagai candidate key juga tidak boleh memiliki data kosong
